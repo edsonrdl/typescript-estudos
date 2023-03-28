@@ -63,7 +63,7 @@ function onboarding03(pessoa: Pessoa03) {
 console.log(onboarding03({ nome: 'Monkey D. Luffy', funcao: 'Capitão', linguagem: 'JavaScript/Typescript' }));
 
 
-// ==> Exemplo 05 -> usando optional no object
+//Exemplo 05 -> usando optional no object
 
 interface Pessoa04 {
   nome: string;
@@ -88,7 +88,7 @@ function onboarding04(pessoa: Pessoa04) {
 
 console.log(onboarding04({ nome: 'Monkey D. Luffy', funcao: 'Capitão', linguagem: 'JavaScript/Typescript' }));
 
-// ==> Exemplo 06 -> Propriedade 'readonly' (se deseja proibir que os devs não modifiquem um determinado objeto use o '
+//Exemplo 06 -> Propriedade 'readonly' (se deseja proibir que os devs não modifiquem um determinado objeto use o '
 //readonly)
 
 interface Pessoa05 {
