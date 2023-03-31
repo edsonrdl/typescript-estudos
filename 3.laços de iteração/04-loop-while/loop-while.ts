@@ -1,12 +1,4 @@
-/* eslint-disable prettier/prettier */
-/**
- * arquivo: loop-while.ts
- * descrição: arquivo responsável por ensinar como usar o loop for no Typescript
- * data: 23/01/2021
- * author: Glaucia Lemos <Twitter: @glaucia_lemos86>
- */
-
-// ==> Exemplo 01 - while
+///Exemplo 01 - while
 let contador = 0;
 
 while (contador < 5) {
@@ -25,7 +17,7 @@ while (numero <= 20) {
   numero++
 }
 
-// ==> Exemplo 03 - exemplo mais prático
+//Exemplo 03 - exemplo mais prático
 let contadorUsuario = 0;
 const usuario : string[] = ['Glaucia', 'Jurema', 'Prince'];
 
@@ -35,7 +27,7 @@ while (usuario[contadorUsuario]) {
   contadorUsuario++;
 }
 
-// ==> Exemplo 04 - do...while
+//Exemplo 04 - do...while
 let contador_01 = 0;
 
 do {
