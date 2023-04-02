@@ -12,7 +12,7 @@ console.log(numerosRandomicos);
 let estados = ['São Paulo', 'Rio de Janeiro', 'Minas Gerais', 'Paraná', 'Santa Catarina', 'Rio Grande do Sul'];
 let estadosRandomicos = retornarElementosRandomicos(estados);
 console.log(estadosRandomicos);
-// =Exemplo 02: Generics
+//Exemplo 02: Generics
 function exibirElementos(array) {
     array.forEach((elemento) => {
         console.log(elemento);
