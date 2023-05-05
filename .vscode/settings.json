@@ -1,5 +1,6 @@
 {
-  "cSpell.enableFiletypes": [
-    "!typescript"
-  ]
+
+  "code-runner.executorMap": {
+    "typescript":"npx sucrase-node"
+  }
 }
