@@ -1,8 +1,8 @@
 //Exemplo 01: Null
 
-let teste = null;
+const testeNull = null;
 
-console.log(teste);
-console.log(typeof teste);
+console.log(testeNull);
+console.log(typeof testeNull);
 
 //Exemplo 02: Undefined

@@ -1,0 +1,33 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Diretórios do ambiente
+node_modules/
+
+# Diretórios de saída
+dist/
+build/
+
+# Arquivos de cache
+*.tsbuildinfo
+
+# Arquivos temporários
+temp/
+.tmp/
+
+# Configurações locais de IDEs e editores de texto
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de backup
+*.bak
+*.swp
+
+# Arquivos de configuração local
+.editorconfig
+.eslintrc.js
+.prettierrc.js
